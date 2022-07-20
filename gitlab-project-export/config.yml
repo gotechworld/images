@@ -1,0 +1,22 @@
+gitlab:
+  access:
+    gitlab_url: "https://gitlab.altex.ro"
+    token: "MY_PERSONAL_SECRET_TOKEN"
+  projects:
+    - iac/images
+    - iac/helm
+    - iac/terraform
+    - iac/ansible
+
+
+  membership: True
+  wait_between_exports: 0
+  max_tries_number: 12
+
+backup:
+  destination: "/Users/petrugiurca/Desktop/backup/"
+  project_dirs: True
+  backup_name: "gitlab-com-{PROJECT_NAME}-{TIME}.tar.gz"
+  backup_time_format: "%Y%m%d"
+
+  retention_period: 0

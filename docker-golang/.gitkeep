@@ -1,0 +1,13 @@
+## Prepare PostgreSQL container images needed for AWS/Azure K8s clusters
+
+&nbsp;
+
+`PostgreSQL` is an advanced object-relational database management system that supports an extended subset of the SQL standard, including transactions, foreign keys, subqueries, triggers, user-defined types and functions.  This distribution also contains C language bindings.
+
+`PostgreSQL` has many language interfaces, many of which are listed here:
+
+https://www.postgresql.org/download/
+
+&nbsp;
+
+![PostgreSQL](https://www.percona.com/blog/wp-content/uploads/2021/09/install-postgresql-with-docker.png)

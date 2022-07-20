@@ -1,0 +1,12 @@
+.git
+.vscode
+LICENSE
+VERSION
+README.md
+Changelog.md
+Makefile
+node_modules
+build
+npm-debug.log
+
+
