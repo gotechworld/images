@@ -1,1 +1,1 @@
-
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=petrugiurca_images2&metric=alert_status&token=cd07a226702ee66c3d317bad23e70c3359928d25)](https://sonarcloud.io/summary/new_code?id=petrugiurca_images2)
