@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM nginx:1.27.4-alpine3.21
 
 # ADD Custom Config
 ADD ./tags/nginx/nginx.conf /etc/nginx/nginx.conf
