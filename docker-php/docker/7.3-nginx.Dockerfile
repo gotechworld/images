@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 alpine:3.9
+FROM --platform=linux/amd64 alpine:3.23.2
 
 ARG BUILD_DATE
 ARG VCS_REF
